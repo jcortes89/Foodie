@@ -1,9 +1,4 @@
-# Foodie
-
 # Name: Foodie
-
-A social media feed like app for solely food
-
 
 ## Project Overview
 
@@ -58,5 +53,3 @@ I will hold the user post description and restaurants names along with their cit
 ### Voting Results
 
 I want to have the voting results be a float represented by the users voting ranges from 1-20. It will be displayed as a number between 1-10, but the 1-20 from them will allow for a more precise vote float for a restaurant if multiple people are voting for it. A nice to have will be if a restaraunt merrits less than 5.0 for an extended period of time, it will be removed from the list so as to showcase only the best restaurants in the area. Perhaps in the future the threshhold can be moved to accomodate a higher quality. 
-
-
